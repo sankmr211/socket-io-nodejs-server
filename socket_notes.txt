@@ -1,0 +1,6 @@
+bufferutil: 
+Allows to efficiently perform operations such as masking and unmasking the data payload of the WebSocket frames.
+
+
+utf-8-validate: 
+Allows to efficiently check if a message contains valid UTF-8 as required by the spec.
